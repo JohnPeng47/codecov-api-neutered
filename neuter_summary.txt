@@ -1,0 +1,16 @@
+
+Summary of affected modules:
+  CoverageChartHelpersTest: 10 tests deleted
+  TestChartQueryRunnerQuery: 3 tests deleted
+  TestChartQueryRunnerHelperMethods: 3 tests deleted
+  RepositoryCoverageChartTest: 2 tests deleted
+  TestRepositoryPermissionsService: 14 tests deleted
+  RepositoryAccessorsTestCase: 3 tests deleted
+  RepoPullList: 11 tests deleted
+  RepoPullDetail: 2 tests deleted
+  RepoCommitList: 4 tests deleted
+  BranchViewSetTests: 4 tests deleted
+  AccountViewSetTests: 44 tests deleted
+
+Total tests deleted: 100
+Total failed: 15

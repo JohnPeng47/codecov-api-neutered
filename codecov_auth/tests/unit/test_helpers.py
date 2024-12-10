@@ -50,7 +50,7 @@ def test_log_entry(mocked_format_stack):
     log_entries = LogEntry.objects.all()
     assert (
         str(log_entries.first())
-        == f"Changed â€œ{str(impersonated_owner)}â€ â€” Impersonation successful: test"
+        == f"Changed “{str(impersonated_owner)}” — Impersonation successful: test"
     )
 
 
